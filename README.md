@@ -13,11 +13,11 @@ The audit returned the following results:
 
 ###     County Votes and Percentage of Total Votes:
 
-<span style="color:blue">       * Jefferson: 38,855 votes / 10.5%</span>
+            * Jefferson: 38,855 votes / 10.5%
 
-<span style="color:blue">       * Denver: 306,055 votes / 82.8%</span>
+            * Denver: 306,055 votes / 82.8%
 
-<span style="color:blue">       * Arapahoe: 24,801 votes / 6.7%</span>
+            * Arapahoe: 24,801 votes / 6.7%
 
 ###     Largest County Turnout: <span style="color:red">Denver</span>
 
